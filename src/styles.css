@@ -24,7 +24,7 @@
     font-weight: 200;
   }
 
-  header div {
+  header .navbar {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
   }
