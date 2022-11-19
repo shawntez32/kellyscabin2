@@ -3,7 +3,12 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>Keeper</h1>
+      <div class="navbar">
+        <a>Home</a>
+        <a>Products</a>
+        <a>Contact Us</a>
+        <a>Join Us</a>
+      </div>
     </header>
   );
 }
