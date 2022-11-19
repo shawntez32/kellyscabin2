@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kellyscabin2/static/css/main.13dc6b34.css",
+    "main.js": "/kellyscabin2/static/js/main.41435702.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kellyscabin2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/kellyscabin2/index.html",
+    "main.13dc6b34.css.map": "/kellyscabin2/static/css/main.13dc6b34.css.map",
+    "main.41435702.js.map": "/kellyscabin2/static/js/main.41435702.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kellyscabin2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13dc6b34.css",
+    "static/js/main.41435702.js"
+  ]
+}
